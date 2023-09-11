@@ -17,6 +17,7 @@ ____________________________________________
 
  - Dijkstra's Algorithm
    1. [Shortest Distance in a Binary Maze](https://tinyl.io/9FmH) `Meta` `Google` `Amazon` `Snapchat` `Adobe` `Microsoft`
+   2. [Path with Minimum Efforts](https://leetcode.com/problems/path-with-minimum-effort/description/)
        
 
  ### Unique Tree Questions (Not so Classic)
