@@ -29,5 +29,3 @@ ____________________________________________
    2. [Burning Tree](https://tinyl.io/9Lm3) `Flipkart` `Amazon` `Adobe` `Microsoft`
    3. [Amount of Time for Binary Tree to Be Infected](https://tinyl.io/9Lm7)
 
- ### Segment Tree Questions
- - 
